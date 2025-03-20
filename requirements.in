@@ -1,0 +1,7 @@
+pydantic
+pydantic-settings
+alembic
+sqlalchemy
+asyncpg
+greenlet
+pandas
